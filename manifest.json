@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "YoutubeLoop",
+	"version": "0.1",
+
+	"content_scripts": [
+		{
+			"matches": ["https://www.instagram.com/direct/inbox/"],
+			"css": ["styles.css"],
+			"js": ["index.js"]
+		}
+	]
+}
