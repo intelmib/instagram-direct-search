@@ -4,7 +4,7 @@ Olá, eu fiz essa extensão porque não achei nada do tipo e também eu gostaria
 > Ah, eu só testei no Chrome, mas acredito que mudando o manifest.json seja possível executar em outros navegadores.
 
 
-Indo direto ao ponto: A extensão só atua no direct do Instagram, apenas desktop, ela lista todas as conversas e abre uma por uma recolhendo as mensagens; No final ela criar um ou mais arquivos com extensão CVS contendo o username e data do envio da mensagem(o instagram não coloca de maneira clara a data/hora).
+Indo direto ao ponto: A extensão só atua no direct do Instagram, apenas desktop, ela lista todas as conversas e abre uma por uma recolhendo as mensagens; No final ela cria um ou mais arquivos com extensão CSV contendo o username e data do envio da mensagem(o instagram não coloca de maneira clara a data/hora, provavelmente não vai ser possível ver hora:minutos:segundos, apenas hora:minuto do envio da mensagem).
 
 
 ## Como executar?
